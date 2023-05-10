@@ -1,6 +1,6 @@
 ## Olá, me chamo Hebert Cezar
 
--Atualmete
+- Atualmete
 
 <!--
 **hebertcezar/hebertcezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
