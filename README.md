@@ -1,4 +1,4 @@
-### Olá, me chamo Hebert Cezar. Bem vindo ao meu perfil no Github.
+### Olá, me chamo Hebert Cezar. Bem vindo ao meu perfil no Github
 
 - Atualmente estou cursando técnico em Análise de Sistemas, tenho conhecimentos em HTML & CSS, Java e Javascript.
 - Estou buscando minha primeira expêriencia profissional no ramo.
